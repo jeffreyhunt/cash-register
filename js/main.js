@@ -24,12 +24,14 @@ function itemsController($scope) {
     {code: '0010', quantity: 0, price: 4.50, name: 'Bread', label: 'Bread'}
 ];
   $scope.employee_list = [
-    {code: '1', name:'Bill Gates', discount: 20},
-    {code: '2', name:'Steve Jobs', discount: 25},
-    {code: '3', name:'Alex Atwell', discount: 21},
-    {code: '4', name:'Andre Hyland', discount: 23},
-    {code: '5', name:'Romario Bates', discount: 20},
-    {code: '6', name:'Kwabena Adu', discount: 28}
+    {code: '1', name:'Paddington Bear', discount: 20},
+    {code: '2', name:'Mr Brown', discount: 25},
+    {code: '3', name:'Mrs Brown', discount: 21},
+    {code: '4', name:'Mrs Bird', discount: 23},
+    {code: '5', name:'Jonathan Brown', discount: 20},
+    {code: '6', name:'Judy Brown', discount: 28},
+    {code: '7', name:'Mr Gruber', discount: 16},
+    {code: '8', name:'Aunty Lucy', discount: 22}
 ];
   
 //Declaring view controller methods
