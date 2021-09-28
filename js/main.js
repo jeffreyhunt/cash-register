@@ -16,8 +16,12 @@ function itemsController($scope) {
     {code: '0002', quantity: 0, price: 5.35,  name: 'Bananas', label: 'Bananas'},
     {code: '0003', quantity: 0, price: 1.05,  name: 'Mangoes', label: 'Mangoes'},
     {code: '0004', quantity: 0, price: 24.05, name: 'Pawpaw', label: 'Pawpaw'},
-    {code: '0005', quantity: 0, price: 6728.15, name: 'Roman Ruby Grapes', label: 'Roman Ruby Grapes'},
-    {code: '0006', quantity: 0, price: 99.15, name: 'Mushrooms', label: 'Mushrooms'}
+    {code: '0005', quantity: 0, price: 28.15, name: 'Roman Ruby Grapes', label: 'Roman Ruby Grapes'},
+    {code: '0006', quantity: 0, price: 19.15, name: 'Mushrooms', label: 'Mushrooms'},
+    {code: '0007', quantity: 0, price: 24.95, name: 'Pet Food', label: 'Pet Food'},
+    {code: '0008', quantity: 0, price: 9.00, name: 'Cupcakes', label: 'Cupcakes'},
+    {code: '0009', quantity: 0, price: 1.00, name: 'Magazines', label: 'Magazines'},
+    {code: '0010', quantity: 0, price: 4.50, name: 'Bread', label: 'Bread'}
 ];
   $scope.employee_list = [
     {code: '1', name:'Bill Gates', discount: 20},
