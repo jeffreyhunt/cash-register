@@ -19,16 +19,18 @@ function itemsController($scope) {
     {code: '0005', quantity: 0, price: 10.00, name: 'Roman Ruby Grapes', label: 'Roman Ruby Grapes'},
     {code: '0006', quantity: 0, price: 5.50, name: 'Mushrooms', label: 'Mushrooms'},
     {code: '0007', quantity: 0, price: 20.95, name: 'Pet Food', label: 'Pet Food'},
-    {code: '0008', quantity: 0, price: 9.00, name: 'Cupcakes', label: 'Cupcakes'},
+    {code: '0008', quantity: 0, price: 2.75, name: 'Cupcakes', label: 'Cupcakes'},
     {code: '0009', quantity: 0, price: 1.00, name: 'Magazines', label: 'Magazines'},
     {code: '0010', quantity: 0, price: 4.50, name: 'Bread', label: 'Bread'},
     {code: '0011', quantity: 0, price: 2.50, name: 'Tea', label: 'Tea'},
     {code: '0012', quantity: 0, price: 3.50, name: 'Coffee', label: 'Coffee'},
-    {code: '0013', quantity: 0, price: 5.00, name: 'Biscuits', label: 'Biscuits'},
-    {code: '0014', quantity: 0, price: 5.00, name: 'Caramel Slice', label: 'Caramel Slice'},
+    {code: '0013', quantity: 0, price: 2.00, name: 'Biscuits', label: 'Biscuits'},
+    {code: '0014', quantity: 0, price: 2.50, name: 'Caramel Slice', label: 'Caramel Slice'},
     {code: '0015', quantity: 0, price: 6.50, name: 'Juice', label: 'Juice'},
     {code: '0016', quantity: 0, price: 4.50, name: 'Chai', label: 'Chai'},
-    {code: '0017', quantity: 0, price: 0.50, name: 'Raffle Tickets', label: 'Raffle Tickets'}
+    {code: '0017', quantity: 0, price: 0.50, name: 'Raffle Tickets', label: 'Raffle Tickets'},
+    {code: '0018', quantity: 0, price: 4.00, name: 'Sandwich', label: 'Sandwich'},
+    {code: '0019', quantity: 0, price: 5.00, name: 'Toastie', label: 'Toastie'}
 ];
   $scope.employee_list = [
     {code: '1', name:'Paddington Bear', discount: 20},
