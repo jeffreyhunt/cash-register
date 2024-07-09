@@ -27,7 +27,8 @@ function itemsController($scope) {
     {code: '0013', quantity: 0, price: 5.00, name: 'Biscuits', label: 'Biscuits'},
     {code: '0014', quantity: 0, price: 5.00, name: 'Caramel Slice', label: 'Caramel Slice'},
     {code: '0015', quantity: 0, price: 6.50, name: 'Juice', label: 'Juice'},
-    {code: '0016', quantity: 0, price: 4.50, name: 'Chai', label: 'Chai'}
+    {code: '0016', quantity: 0, price: 4.50, name: 'Chai', label: 'Chai'},
+    {code: '0017', quantity: 0, price: 0.50, name: 'Raffle Tickets', label: 'Raffle Tickets'}
 ];
   $scope.employee_list = [
     {code: '1', name:'Paddington Bear', discount: 20},
